@@ -1,5 +1,5 @@
 ![Version 0.0.0](https://img.shields.io/badge/Version-0.0.0-green.svg)
-![Python](https://img.shields.io/badge/Python-yellow.svg)
+![Python](https://img.shields.io/badge/Python-x-yellow.svg)
 [![GPLv3 License](https://img.shields.io/badge/License-GPLv3-red.svg)](https://github.com/iotscan/Dharma/blob/master/COPYING.GPL)
 [![Twitter](https://img.shields.io/badge/Twitter-@iotscan-blue.svg)](http://www.twitter.com/iotscan)
 
